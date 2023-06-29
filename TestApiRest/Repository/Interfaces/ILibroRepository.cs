@@ -6,10 +6,10 @@ namespace TestApiRest.Repository.Interfaces
 {
     public interface ILibroRepository
     {
-        Task<List<Libro>> GetAllLibros();
-        Task<Libro> GetLibroById(int id);
-        Task<Libro> CreateLibro(Libro libro);
-        Task UpdateLibro(Libro libro);
-        Task DeleteLibro(int id);
+        Task<List<LibroDTO>> GetAllLibros();
+        Task<LibroDTO> GetLibroById(int id);
+        Task<LibroDTO> CreateLibro(LibroDTO libroDto);
+        Task<LibroDTO> UpdateLibro(LibroDTO libroDto);
+        Task<LibroDTO> DeleteLibro(int id);
     }
 }

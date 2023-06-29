@@ -14,45 +14,35 @@ namespace TestApiRest.Services
     public class LibroService : ILibroService
     {
         private readonly ILibroRepository _libroRepository;
-        private readonly IMapper _mapper;
-
-        public LibroService(ILibroRepository libroRepository, IMapper mapper)
+        
+        public LibroService(ILibroRepository libroRepository)
         {
-            _libroRepository = libroRepository;
-            _mapper = mapper;
+            _libroRepository = libroRepository;           
         }
 
-        public async Task<List<LibroDTO>> GetAllLibros()
+        public List<LibroDTO> GetAllLibros()
         {
-            var libros = await _libroRepository.GetAllLibros();
-            return _mapper.Map<List<LibroDTO>>(libros);
+            return _libroRepository.GetAllLibros().Result;           
         }
 
-        public async Task<LibroDTO> GetLibroById(int id)
+        public LibroDTO GetLibroById(int id)
         {
-            var libro = await _libroRepository.GetLibroById(id);
-            return  _mapper.Map<LibroDTO>(libro);
+            return _libroRepository.GetLibroById(id).Result;  
         }
 
-        public async Task<LibroDTO> CreateLibro(LibroDTO nuevolibroDTO)
+        public LibroDTO CreateLibro(LibroDTO libroDto)
         {
-            var libro = _mapper.Map<Libro>(nuevolibroDTO);
-            var nuevo = await _libroRepository.CreateLibro(libro);
-            return _mapper.Map<LibroDTO>(nuevo);  
+            return _libroRepository.CreateLibro(libroDto).Result;
         }
 
-        public async Task UpdateLibro(LibroDTO libroDto,int id)
-        {
-            var libro = await _libroRepository.GetLibroById(id);
-            if (libro.IdLibro != libroDto.IdLibro || libro is null)
-                throw new ExceptionMessage("Libro no encontrado");
-            libro = _mapper.Map<Libro>(libroDto);
-            await _libroRepository.UpdateLibro(libro);
+        public LibroDTO UpdateLibro(LibroDTO libroDto)
+        {                            
+            return _libroRepository.UpdateLibro(libroDto).Result;
         }
 
-        public async Task DeleteLibro(int id)
+        public  LibroDTO DeleteLibro(int id)
         {
-           await _libroRepository.DeleteLibro(id);
+           return _libroRepository.DeleteLibro(id).Result;
         }
     }
 }

@@ -6,11 +6,11 @@ namespace TestApiRest.Services.Interfaces
 {
     public interface ILibroService
     {
-        Task<List<LibroDTO>> GetAllLibros();
-        Task<LibroDTO> GetLibroById(int id);
-        Task<LibroDTO> CreateLibro(LibroDTO libroCreate);
-        Task UpdateLibro(LibroDTO libroDTO,int id);
-        Task DeleteLibro(int id);
+        List<LibroDTO> GetAllLibros();
+        LibroDTO GetLibroById(int id);
+        LibroDTO CreateLibro(LibroDTO libroCreate);
+        LibroDTO UpdateLibro(LibroDTO libroDTO);
+        LibroDTO DeleteLibro(int id);
 
     }
 }

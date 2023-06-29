@@ -17,58 +17,32 @@ namespace TestApiRest.Controllers
             this.service = service;
         }
 
-        [HttpGet]   
-        public async Task<ActionResult<List<LibroDTO>>> GetAllLibros()
+        [HttpGet]
+        public List<LibroDTO> GetAllLibros()
         {
-            var listaLibros = await service.GetAllLibros();
-
-            if (listaLibros == null)
-                return NotFound();
-
-            return Ok(listaLibros);
-
+            return service.GetAllLibros();
         }
 
         [HttpGet("{id:int}")]
-        public async Task<ActionResult<LibroDTO>> GetLibroById(int id)
+        public LibroDTO GetLibroById(int id)
         {
-            var book = await service.GetLibroById(id);
-            return Ok(book);
+            return service.GetLibroById(id);      
         }
         [HttpPost]
-        public async Task<ActionResult> CreateLibro(LibroDTO bookDTO)
+        public LibroDTO CreateLibro(LibroDTO bookDTO)
         {
-            var nuevoLibro = await service.CreateLibro(bookDTO);
-            return StatusCode(201, nuevoLibro);
+            return service.CreateLibro(bookDTO);
         }
         [HttpDelete("{id:int}")]
-        public async Task<ActionResult> DeleteLibro(int id)
+        public LibroDTO DeleteLibro(int id)
         {
-            var libro = await service.GetLibroById(id);
-            if (libro is null)
-            {
-                return NotFound();
-            }
-            await service.DeleteLibro(id);
-            return Ok();
+            return service.DeleteLibro(id);
         }
 
         [HttpPut("{id:int}")] //api/libros/1
-        public async Task<ActionResult> UpdateLibro([FromBody]LibroDTO book, int id)
+        public LibroDTO UpdateLibro([FromBody] LibroDTO book)
         {
-            var libro = await service.GetLibroById(id);
-            if (libro is null)
-                return NotFound("El id no coincide con ningun libro");
-
-            if (libro.IdLibro == book.IdLibro)
-            {
-                await service.UpdateLibro(book, id);
-                return Ok();
-            }
-            else
-            {
-                return BadRequest("El id no coincide con el del libro");
-            }
+            return service.UpdateLibro(book);                                      
         }
     }
 }

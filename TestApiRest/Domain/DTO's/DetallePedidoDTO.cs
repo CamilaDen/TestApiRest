@@ -9,7 +9,7 @@ namespace TestApiRest.DTO_s
     {
         public int idDetalle { get; set; }
         public int idPedido  { get; set; }
-        public LibroDTO libroDTO { get; set; }
+        public int idLibro { get; set; }
 
         [Column(TypeName = "date")]
         public DateTime fechaPedido { get; set; }
