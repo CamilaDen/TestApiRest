@@ -1,0 +1,14 @@
+Y
+PC:\Users\Cam\source\repos\cgoncalves\Models\Attributes\DateConverterAttribute.csutf-8^
+UC:\Users\Cam\source\repos\cgoncalves\Models\Attributes\FirstCapitalLetterAttribute.csutf-8L
+CC:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\BookDTO.csutf-8S
+JC:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\OrderDetailDTO.csutf-8M
+DC:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\OrderDTO.csutf-8L
+CC:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\UserDTO.csutf-8L
+CC:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\Book.csutf-8M
+DC:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\Order.csutf-8S
+JC:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\OrderDetail.csutf-8L
+CC:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\User.csutf-8`
+UC:\Users\Cam\source\repos\cgoncalves\Models\obj\Debug\net6.0\Models.GlobalUsings.g.csutf-8v
+kC:\Users\Cam\source\repos\cgoncalves\Models\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8^
+SC:\Users\Cam\source\repos\cgoncalves\Models\obj\Debug\net6.0\Models.AssemblyInfo.csutf-8

@@ -1,0 +1,6 @@
+﻿C:\Users\Cam\source\repos\cgoncalves\Utils\CSVFileHandler\ReadWithTextFieldParser.cs
+C:\Users\Cam\source\repos\cgoncalves\Utils\CustomValidator\DTOValidator.cs
+C:\Users\Cam\source\repos\cgoncalves\Utils\Exceptions\BadRequestException.cs
+C:\Users\Cam\source\repos\cgoncalves\Utils\Exceptions\ExceptionMessage.cs
+C:\Users\Cam\source\repos\cgoncalves\Utils\Middleware\ValidatorMiddleware.cs
+C:\Users\Cam\source\repos\cgoncalves\Utils\PDFFileHandler\CreateWithPDFSharpCore.cs

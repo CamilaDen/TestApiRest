@@ -1,0 +1,10 @@
+]
+TC:\Users\Cam\source\repos\cgoncalves\Utils\CSVFileHandler\ReadWithTextFieldParser.csutf-8S
+JC:\Users\Cam\source\repos\cgoncalves\Utils\CustomValidator\DTOValidator.csutf-8U
+LC:\Users\Cam\source\repos\cgoncalves\Utils\Exceptions\BadRequestException.csutf-8R
+IC:\Users\Cam\source\repos\cgoncalves\Utils\Exceptions\ExceptionMessage.csutf-8U
+LC:\Users\Cam\source\repos\cgoncalves\Utils\Middleware\ValidatorMiddleware.csutf-8\
+SC:\Users\Cam\source\repos\cgoncalves\Utils\PDFFileHandler\CreateWithPDFSharpCore.csutf-8^
+SC:\Users\Cam\source\repos\cgoncalves\Utils\obj\Debug\net6.0\Utils.GlobalUsings.g.csutf-8u
+jC:\Users\Cam\source\repos\cgoncalves\Utils\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8\
+QC:\Users\Cam\source\repos\cgoncalves\Utils\obj\Debug\net6.0\Utils.AssemblyInfo.csutf-8

@@ -1,0 +1,9 @@
+Y
+PC:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\BooksControllerTest.csutf-8Z
+QC:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\OrdersControllerTest.csutf-8Z
+QC:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\UsersControllersTest.csutf-8L
+CC:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\Usings.csutf-8{
+pC:\Users\Cam\.nuget\packages\microsoft.net.test.sdk\17.3.2\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8|
+qC:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\obj\Debug\net7.0\TestApiRest-UnitTest.GlobalUsings.g.csutf-8„
+yC:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8z
+oC:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\obj\Debug\net7.0\TestApiRest-UnitTest.AssemblyInfo.csutf-8

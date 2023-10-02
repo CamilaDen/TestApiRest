@@ -1,0 +1,12 @@
+X
+OC:\Users\Cam\source\repos\cgoncalves\TestApiRest\Controllers\BooksController.csutf-8Y
+PC:\Users\Cam\source\repos\cgoncalves\TestApiRest\Controllers\OrdersController.csutf-8Y
+PC:\Users\Cam\source\repos\cgoncalves\TestApiRest\Controllers\UsersControllers.csutf-8Q
+HC:\Users\Cam\source\repos\cgoncalves\TestApiRest\Headers\ApiKeyHeader.csutf-8D
+;C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Program.csutf-8D
+;C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Startup.csutf-8U
+LC:\Users\Cam\source\repos\cgoncalves\TestApiRest\Utils\AutoMapperProfiles.csutf-8j
+_C:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\TestApiRest.GlobalUsings.g.csutf-8{
+pC:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8h
+]C:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\TestApiRest.AssemblyInfo.csutf-8{
+pC:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\TestApiRest.MvcApplicationPartsAssemblyInfo.csutf-8

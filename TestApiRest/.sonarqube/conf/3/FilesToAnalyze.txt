@@ -1,0 +1,6 @@
+﻿C:\Users\Cam\source\repos\cgoncalves\Services\BooksService.cs
+C:\Users\Cam\source\repos\cgoncalves\Services\Interfaces\IBooksService.cs
+C:\Users\Cam\source\repos\cgoncalves\Services\Interfaces\IOrdersService.cs
+C:\Users\Cam\source\repos\cgoncalves\Services\Interfaces\IUsersService.cs
+C:\Users\Cam\source\repos\cgoncalves\Services\OrdersService.cs
+C:\Users\Cam\source\repos\cgoncalves\Services\UsersService.cs

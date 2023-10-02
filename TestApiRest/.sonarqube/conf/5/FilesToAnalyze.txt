@@ -1,0 +1,13 @@
+﻿C:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\BooksControllerTest.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\OrdersControllerTest.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\UsersControllersTest.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest-UnitTest\Usings.cs
+C:\Users\Cam\.nuget\packages\microsoft.net.test.sdk\17.3.2\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Cam\.nuget\packages\microsoft.testplatform.testhost\17.3.2\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\Cam\.nuget\packages\microsoft.testplatform.testhost\17.3.2\build\netcoreapp2.1\x64\testhost.dll
+C:\Users\Cam\.nuget\packages\nunit3testadapter\4.3.0\build\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Cam\.nuget\packages\nunit3testadapter\4.3.0\build\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Cam\.nuget\packages\nunit3testadapter\4.3.0\build\netcoreapp2.1\nunit.engine.dll
+C:\Users\Cam\.nuget\packages\nunit3testadapter\4.3.0\build\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Cam\.nuget\packages\nunit3testadapter\4.3.0\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\Cam\.nuget\packages\nunit3testadapter\4.3.0\build\netcoreapp2.1\testcentric.engine.metadata.dll

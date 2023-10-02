@@ -1,0 +1,10 @@
+F
+=C:\Users\Cam\source\repos\cgoncalves\Services\BooksService.csutf-8R
+IC:\Users\Cam\source\repos\cgoncalves\Services\Interfaces\IBooksService.csutf-8S
+JC:\Users\Cam\source\repos\cgoncalves\Services\Interfaces\IOrdersService.csutf-8R
+IC:\Users\Cam\source\repos\cgoncalves\Services\Interfaces\IUsersService.csutf-8G
+>C:\Users\Cam\source\repos\cgoncalves\Services\OrdersService.csutf-8F
+=C:\Users\Cam\source\repos\cgoncalves\Services\UsersService.csutf-8d
+YC:\Users\Cam\source\repos\cgoncalves\Services\obj\Debug\net6.0\Services.GlobalUsings.g.csutf-8x
+mC:\Users\Cam\source\repos\cgoncalves\Services\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8b
+WC:\Users\Cam\source\repos\cgoncalves\Services\obj\Debug\net6.0\Services.AssemblyInfo.csutf-8

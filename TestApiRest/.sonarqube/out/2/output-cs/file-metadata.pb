@@ -1,0 +1,15 @@
+P
+GC:\Users\Cam\source\repos\cgoncalves\Repository\ApplicationDbContext.csutf-8K
+BC:\Users\Cam\source\repos\cgoncalves\Repository\BooksRepository.csutf-8W
+NC:\Users\Cam\source\repos\cgoncalves\Repository\Interfaces\IBooksRepository.csutf-8X
+OC:\Users\Cam\source\repos\cgoncalves\Repository\Interfaces\IOrdersRepository.csutf-8W
+NC:\Users\Cam\source\repos\cgoncalves\Repository\Interfaces\IUsersRepository.csutf-8]
+TC:\Users\Cam\source\repos\cgoncalves\Repository\Migrations\20230823172914_Initial.csutf-8h
+]C:\Users\Cam\source\repos\cgoncalves\Repository\Migrations\20230823172914_Initial.Designer.csutf-8j
+_C:\Users\Cam\source\repos\cgoncalves\Repository\Migrations\ApplicationDbContextModelSnapshot.csutf-8L
+CC:\Users\Cam\source\repos\cgoncalves\Repository\OrdersRepository.csutf-8K
+BC:\Users\Cam\source\repos\cgoncalves\Repository\UsersRepository.csutf-8T
+KC:\Users\Cam\source\repos\cgoncalves\Repository\Utils\AutoMapperProfiles.csutf-8h
+]C:\Users\Cam\source\repos\cgoncalves\Repository\obj\Debug\net6.0\Repository.GlobalUsings.g.csutf-8z
+oC:\Users\Cam\source\repos\cgoncalves\Repository\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8f
+[C:\Users\Cam\source\repos\cgoncalves\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.csutf-8

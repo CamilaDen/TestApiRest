@@ -1,0 +1,386 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.0-6.23127.3 (e2bc27d2)",
+        "semanticVersion": "4.5.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'BooksController'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Controllers/BooksController.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 18,
+                  "endLine": 14,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'BooksController.BooksController(IBooksService)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Controllers/BooksController.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 16,
+                  "endLine": 18,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'OrdersController'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Controllers/OrdersController.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 18,
+                  "endLine": 12,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'OrdersController.OrdersController(IOrdersService)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Controllers/OrdersController.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 16,
+                  "endLine": 16,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'UsersControllers'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Controllers/UsersControllers.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'UsersControllers.UsersControllers(IUsersService)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Controllers/UsersControllers.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'ApiKeyHeader'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Headers/ApiKeyHeader.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 18,
+                  "endLine": 6,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'ApiKeyHeader.Apply(OpenApiOperation, OperationFilterContext)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Headers/ApiKeyHeader.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 21,
+                  "endLine": 8,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Startup'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Startup.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 18,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Startup.Startup(IConfiguration)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Startup.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 16,
+                  "endLine": 15,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Startup.Configuration'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Startup.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 31,
+                  "endLine": 20,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Startup.ConfigureServices(IServiceCollection)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Startup.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 21,
+                  "endLine": 22,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Startup.Configure(IApplicationBuilder, IWebHostEnvironment)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Startup.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 21,
+                  "endLine": 64,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'AutoMapperProfiles'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Utils/AutoMapperProfiles.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18,
+                  "endLine": 8,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'AutoMapperProfiles.AutoMapperProfiles()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Utils/AutoMapperProfiles.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 16,
+                  "endLine": 10,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "S5122",
+          "level": "warning",
+          "message": "Make sure this permissive CORS policy is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Cam/source/repos/cgoncalves/TestApiRest/Startup.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 25,
+                  "endLine": 50,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS1591": {
+          "id": "CS1591",
+          "shortDescription": "Falta el comentario XML para el tipo o miembro visible públicamente",
+          "fullDescription": "Se especificó la opción del compilador /doc, pero una o más construcciones no tenían comentarios.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1591)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S5122": {
+          "id": "S5122",
+          "shortDescription": "Having a permissive Cross-Origin Resource Sharing policy is security-sensitive",
+          "fullDescription": "Having a permissive Cross-Origin Resource Sharing policy is security-sensitive. It has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5122",
+          "properties": {
+            "category": "Minor Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

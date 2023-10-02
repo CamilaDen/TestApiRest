@@ -1,0 +1,17 @@
+﻿C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Controllers\BooksController.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Controllers\OrdersController.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Controllers\UsersControllers.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Headers\ApiKeyHeader.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Program.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Startup.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Utils\AutoMapperProfiles.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\TestApiRest.GlobalUsings.g.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\TestApiRest.AssemblyInfo.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\obj\Debug\net7.0\TestApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\nlog.config
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\appsettings.Development.json
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\appsettings.json
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\.gitignore
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\README.md
+C:\Users\Cam\source\repos\cgoncalves\TestApiRest\Properties\launchSettings.json

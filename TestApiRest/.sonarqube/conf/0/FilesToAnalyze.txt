@@ -1,0 +1,10 @@
+﻿C:\Users\Cam\source\repos\cgoncalves\Models\Attributes\DateConverterAttribute.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Attributes\FirstCapitalLetterAttribute.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\BookDTO.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\OrderDetailDTO.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\OrderDTO.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\DTO's\UserDTO.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\Book.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\Order.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\OrderDetail.cs
+C:\Users\Cam\source\repos\cgoncalves\Models\Domain\Entities\User.cs

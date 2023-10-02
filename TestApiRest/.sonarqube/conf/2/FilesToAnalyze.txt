@@ -1,0 +1,11 @@
+﻿C:\Users\Cam\source\repos\cgoncalves\Repository\ApplicationDbContext.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\BooksRepository.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\Interfaces\IBooksRepository.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\Interfaces\IOrdersRepository.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\Interfaces\IUsersRepository.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\Migrations\20230823172914_Initial.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\Migrations\20230823172914_Initial.Designer.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\OrdersRepository.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\UsersRepository.cs
+C:\Users\Cam\source\repos\cgoncalves\Repository\Utils\AutoMapperProfiles.cs

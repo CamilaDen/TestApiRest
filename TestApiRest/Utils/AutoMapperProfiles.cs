@@ -9,14 +9,14 @@ namespace TestApiRest.Utils
     {
         public AutoMapperProfiles() 
         {
-            CreateMap<UsuarioDTO, Usuario>();
-            CreateMap<Usuario, UsuarioDTO>();
-            CreateMap<Libro,LibroDTO>();  
-            CreateMap<LibroDTO,Libro>();
-            CreateMap<Pedido,PedidoDTO>();
-            CreateMap<PedidoDTO, Pedido>();
-            CreateMap<DetallePedido, DetallePedidoDTO>();
-            CreateMap<DetallePedidoDTO, DetallePedido>(); 
+            CreateMap<UserDTO, User>();
+            CreateMap<User, UserDTO>();
+            CreateMap<Book,BookDTO>();  
+            CreateMap<BookDTO,Book>();
+            CreateMap<Order,OrderDTO>();
+            CreateMap<OrderDTO, Order>();
+            CreateMap<OrderDetail, OrderDetailDTO>();
+            CreateMap<OrderDetailDTO, OrderDetail>(); 
         }
     }
 }
